@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<img src="https://te.legra.ph/file/cb6656cbfa5ba89ff4d8d.jpg" align="right" width="200" height="200"/>
 
 # Aujla Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
@@ -82,7 +82,7 @@ shikhar@MacBook~ $ bash start
 > Not Getting VPS Method? [Watch Tutorial](https://t.me/TheYukki/2275)
 
 
-<img src="https://telegra.ph/file/6b75b57da50ef1183fcdc.jpg" align="center">
+<img src="https://te.legra.ph/file/cb6656cbfa5ba89ff4d8d.jpg" align="center">
 
 
 ## 🏷 Support
@@ -104,7 +104,7 @@ If you want to say **thank you** or/and support active development of EhsaasMusi
 PS: You can buy me a coffee too :)
 <p><a href="https://www.buymeacoffee.com/notreallysy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-Together, we can make EhsaasMusicBot **better**!
+Together, we can make AujlaMusicBot **better**!
 
 ## ✍🏻 Contributing
 
